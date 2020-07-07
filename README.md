@@ -1,6 +1,5 @@
 # Music-Generator
 
-<audio controls autostart="true">
-  <source src="../master/result/may be the best one.mid" type="audio/mid">
-Your browser does not support the audio element.
-</audio>
+The results are in folder "result".
+the number in the file name means training time.
+and the letters mean some type of music.
